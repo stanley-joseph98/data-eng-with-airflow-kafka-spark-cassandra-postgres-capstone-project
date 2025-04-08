@@ -1,0 +1,8 @@
+scrapy
+apache-airflow
+kafka-python
+spark
+pyspark==3.5.1
+cassandra-driver
+psycopg2-binary
+pyarrow>=10.0.1

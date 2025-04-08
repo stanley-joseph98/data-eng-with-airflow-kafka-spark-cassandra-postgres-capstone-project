@@ -1,0 +1,3224 @@
+[
+    {
+        "book_title": "A Light in the Attic",
+        "price": "\u00a351.77",
+        "availability_in_stock": 156,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Tipping the Velvet",
+        "price": "\u00a353.74",
+        "availability_in_stock": 229,
+        "rating": "One"
+    },
+    {
+        "book_title": "Soumission",
+        "price": "\u00a350.10",
+        "availability_in_stock": 552,
+        "rating": "One"
+    },
+    {
+        "book_title": "Sharp Objects",
+        "price": "\u00a347.82",
+        "availability_in_stock": 758,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Sapiens: A Brief History of Humankind",
+        "price": "\u00a354.23",
+        "availability_in_stock": 387,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Requiem Red",
+        "price": "\u00a322.65",
+        "availability_in_stock": 184,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Dirty Little Secrets of Getting Your Dream Job",
+        "price": "\u00a333.34",
+        "availability_in_stock": 698,
+        "rating": "Four"
+    },
+    {
+        "book_title": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+        "price": "\u00a317.93",
+        "availability_in_stock": 571,
+        "rating": "Three"
+    },
+    {
+        "book_title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+        "price": "\u00a322.60",
+        "availability_in_stock": 98,
+        "rating": "Four"
+    },
+    {
+        "book_title": "The Black Maria",
+        "price": "\u00a352.15",
+        "availability_in_stock": 897,
+        "rating": "One"
+    },
+    {
+        "book_title": "Starving Hearts (Triangular Trade Trilogy, #1)",
+        "price": "\u00a313.99",
+        "availability_in_stock": 360,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Shakespeare's Sonnets",
+        "price": "\u00a320.66",
+        "availability_in_stock": 215,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Set Me Free",
+        "price": "\u00a317.46",
+        "availability_in_stock": 95,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+        "price": "\u00a352.29",
+        "availability_in_stock": 269,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Rip it Up and Start Again",
+        "price": "\u00a335.02",
+        "availability_in_stock": 938,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+        "price": "\u00a357.25",
+        "availability_in_stock": 378,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Olio",
+        "price": "\u00a323.88",
+        "availability_in_stock": 29,
+        "rating": "One"
+    },
+    {
+        "book_title": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+        "price": "\u00a337.59",
+        "availability_in_stock": 503,
+        "rating": "One"
+    },
+    {
+        "book_title": "Libertarianism for Beginners",
+        "price": "\u00a351.33",
+        "availability_in_stock": 454,
+        "rating": "Two"
+    },
+    {
+        "book_title": "It's Only the Himalayas",
+        "price": "\u00a345.17",
+        "availability_in_stock": 830,
+        "rating": "Two"
+    },
+    {
+        "book_title": "I Had a Nice Time And Other Lies...: How to find love & sh*t like that",
+        "price": "\u00a357.36",
+        "availability_in_stock": 4,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Will You Won't You Want Me?",
+        "price": "\u00a313.86",
+        "availability_in_stock": 679,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Keep Me Posted",
+        "price": "\u00a320.46",
+        "availability_in_stock": 674,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Grey (Fifty Shades #4)",
+        "price": "\u00a348.49",
+        "availability_in_stock": 115,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Meternity",
+        "price": "\u00a343.58",
+        "availability_in_stock": 272,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Some Women",
+        "price": "\u00a313.73",
+        "availability_in_stock": 630,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Shopaholic Ties the Knot (Shopaholic #3)",
+        "price": "\u00a348.39",
+        "availability_in_stock": 179,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Can You Keep a Secret?",
+        "price": "\u00a321.94",
+        "availability_in_stock": 504,
+        "rating": "One"
+    },
+    {
+        "book_title": "Twenties Girl",
+        "price": "\u00a342.80",
+        "availability_in_stock": 545,
+        "rating": "Two"
+    },
+    {
+        "book_title": "The Undomestic Goddess",
+        "price": "\u00a345.75",
+        "availability_in_stock": 356,
+        "rating": "Four"
+    },
+    {
+        "book_title": "The Nanny Diaries (Nanny #1)",
+        "price": "\u00a352.53",
+        "availability_in_stock": 184,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Devil Wears Prada (The Devil Wears Prada #1)",
+        "price": "\u00a344.29",
+        "availability_in_stock": 771,
+        "rating": "One"
+    },
+    {
+        "book_title": "Something Borrowed (Darcy & Rachel #1)",
+        "price": "\u00a348.96",
+        "availability_in_stock": 786,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Something Blue (Darcy & Rachel #2)",
+        "price": "\u00a354.62",
+        "availability_in_stock": 359,
+        "rating": "One"
+    },
+    {
+        "book_title": "I've Got Your Number",
+        "price": "\u00a319.69",
+        "availability_in_stock": 16,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Edge of Reason (Bridget Jones #2)",
+        "price": "\u00a319.18",
+        "availability_in_stock": 3,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Bridget Jones's Diary (Bridget Jones #1)",
+        "price": "\u00a329.82",
+        "availability_in_stock": 159,
+        "rating": "One"
+    },
+    {
+        "book_title": "Soumission",
+        "price": "\u00a350.10",
+        "availability_in_stock": 276,
+        "rating": "One"
+    },
+    {
+        "book_title": "Private Paris (Private #10)",
+        "price": "\u00a347.61",
+        "availability_in_stock": 172,
+        "rating": "Five"
+    },
+    {
+        "book_title": "We Love You, Charlie Freeman",
+        "price": "\u00a350.27",
+        "availability_in_stock": 539,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Thirst",
+        "price": "\u00a317.27",
+        "availability_in_stock": 400,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Murder That Never Was (Forensic Instincts #5)",
+        "price": "\u00a354.11",
+        "availability_in_stock": 350,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Tuesday Nights in 1980",
+        "price": "\u00a321.04",
+        "availability_in_stock": 257,
+        "rating": "Two"
+    },
+    {
+        "book_title": "The Vacationers",
+        "price": "\u00a342.15",
+        "availability_in_stock": 491,
+        "rating": "Four"
+    },
+    {
+        "book_title": "The Regional Office Is Under Attack!",
+        "price": "\u00a351.36",
+        "availability_in_stock": 166,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Finders Keepers (Bill Hodges Trilogy #2)",
+        "price": "\u00a353.53",
+        "availability_in_stock": 858,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Time Keeper",
+        "price": "\u00a327.88",
+        "availability_in_stock": 903,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Testament of Mary",
+        "price": "\u00a352.67",
+        "availability_in_stock": 320,
+        "rating": "Four"
+    },
+    {
+        "book_title": "The First Hostage (J.B. Collins #2)",
+        "price": "\u00a325.85",
+        "availability_in_stock": 317,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Take Me with You",
+        "price": "\u00a345.21",
+        "availability_in_stock": 35,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Still Life with Bread Crumbs",
+        "price": "\u00a326.41",
+        "availability_in_stock": 234,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Shtum",
+        "price": "\u00a355.84",
+        "availability_in_stock": 499,
+        "rating": "Four"
+    },
+    {
+        "book_title": "My Name Is Lucy Barton",
+        "price": "\u00a341.56",
+        "availability_in_stock": 120,
+        "rating": "One"
+    },
+    {
+        "book_title": "My Mrs. Brown",
+        "price": "\u00a324.48",
+        "availability_in_stock": 61,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Mr. Mercedes (Bill Hodges Trilogy #1)",
+        "price": "\u00a328.90",
+        "availability_in_stock": 148,
+        "rating": "One"
+    },
+    {
+        "book_title": "I Am Pilgrim (Pilgrim #1)",
+        "price": "\u00a310.60",
+        "availability_in_stock": 725,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Eligible (The Austen Project #4)",
+        "price": "\u00a327.09",
+        "availability_in_stock": 667,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Sophie's World",
+        "price": "\u00a315.94",
+        "availability_in_stock": 876,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Death of Humanity: and the Case for Life",
+        "price": "\u00a358.11",
+        "availability_in_stock": 232,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Birdsong: A Story in Pictures",
+        "price": "\u00a354.64",
+        "availability_in_stock": 371,
+        "rating": "Three"
+    },
+    {
+        "book_title": "The Stranger",
+        "price": "\u00a317.44",
+        "availability_in_stock": 669,
+        "rating": "Four"
+    },
+    {
+        "book_title": "The Bear and the Piano",
+        "price": "\u00a336.89",
+        "availability_in_stock": 558,
+        "rating": "One"
+    },
+    {
+        "book_title": "Proofs of God: Classical Arguments from Tertullian to Barth",
+        "price": "\u00a354.21",
+        "availability_in_stock": 295,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Secret of Dreadwillow Carse",
+        "price": "\u00a356.13",
+        "availability_in_stock": 207,
+        "rating": "One"
+    },
+    {
+        "book_title": "It's Only the Himalayas",
+        "price": "\u00a345.17",
+        "availability_in_stock": 182,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Kierkegaard: A Christian Missionary to Christians",
+        "price": "\u00a347.13",
+        "availability_in_stock": 122,
+        "rating": "One"
+    },
+    {
+        "book_title": "The White Cat and the Monk: A Retelling of the Poem \u201cPangur B\u00e1n\u201d",
+        "price": "\u00a358.08",
+        "availability_in_stock": 794,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Full Moon over Noah\u2019s Ark: An Odyssey to Mount Ararat and Beyond",
+        "price": "\u00a349.43",
+        "availability_in_stock": 503,
+        "rating": "Four"
+    },
+    {
+        "book_title": "At The Existentialist Caf\u00e9: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",
+        "price": "\u00a329.93",
+        "availability_in_stock": 117,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Little Red",
+        "price": "\u00a313.47",
+        "availability_in_stock": 998,
+        "rating": "Three"
+    },
+    {
+        "book_title": "See America: A Celebration of Our National Parks & Treasured Sites",
+        "price": "\u00a348.87",
+        "availability_in_stock": 551,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Critique of Pure Reason",
+        "price": "\u00a320.75",
+        "availability_in_stock": 916,
+        "rating": "One"
+    },
+    {
+        "book_title": "Walt Disney's Alice in Wonderland",
+        "price": "\u00a312.96",
+        "availability_in_stock": 392,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel",
+        "price": "\u00a336.94",
+        "availability_in_stock": 886,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Run, Spot, Run: The Ethics of Keeping Pets",
+        "price": "\u00a320.02",
+        "availability_in_stock": 128,
+        "rating": "One"
+    },
+    {
+        "book_title": "Twenty Yawns",
+        "price": "\u00a322.08",
+        "availability_in_stock": 617,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Under the Tuscan Sun",
+        "price": "\u00a337.33",
+        "availability_in_stock": 944,
+        "rating": "Three"
+    },
+    {
+        "book_title": "The Nicomachean Ethics",
+        "price": "\u00a336.34",
+        "availability_in_stock": 366,
+        "rating": "One"
+    },
+    {
+        "book_title": "Rain Fish",
+        "price": "\u00a323.57",
+        "availability_in_stock": 9,
+        "rating": "Three"
+    },
+    {
+        "book_title": "A Summer In Europe",
+        "price": "\u00a344.34",
+        "availability_in_stock": 377,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Meditations",
+        "price": "\u00a325.89",
+        "availability_in_stock": 113,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Once Was a Time",
+        "price": "\u00a318.28",
+        "availability_in_stock": 45,
+        "rating": "Two"
+    },
+    {
+        "book_title": "The Great Railway Bazaar",
+        "price": "\u00a330.54",
+        "availability_in_stock": 292,
+        "rating": "One"
+    },
+    {
+        "book_title": "Beyond Good and Evil",
+        "price": "\u00a343.38",
+        "availability_in_stock": 765,
+        "rating": "One"
+    },
+    {
+        "book_title": "Luis Paints the World",
+        "price": "\u00a353.95",
+        "availability_in_stock": 139,
+        "rating": "Three"
+    },
+    {
+        "book_title": "A Year in Provence (Provence #1)",
+        "price": "\u00a356.88",
+        "availability_in_stock": 238,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Nap-a-Roo",
+        "price": "\u00a325.08",
+        "availability_in_stock": 972,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)",
+        "price": "\u00a323.21",
+        "availability_in_stock": 332,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Whale",
+        "price": "\u00a335.96",
+        "availability_in_stock": 416,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Neither Here nor There: Travels in Europe",
+        "price": "\u00a338.95",
+        "availability_in_stock": 266,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",
+        "price": "\u00a352.87",
+        "availability_in_stock": 739,
+        "rating": "Three"
+    },
+    {
+        "book_title": "1,000 Places to See Before You Die",
+        "price": "\u00a326.08",
+        "availability_in_stock": 98,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Raymie Nightingale",
+        "price": "\u00a334.41",
+        "availability_in_stock": 514,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Playing from the Heart",
+        "price": "\u00a332.38",
+        "availability_in_stock": 950,
+        "rating": "One"
+    },
+    {
+        "book_title": "Maybe Something Beautiful: How Art Transformed a Neighborhood",
+        "price": "\u00a322.54",
+        "availability_in_stock": 145,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Wild Robot",
+        "price": "\u00a356.07",
+        "availability_in_stock": 87,
+        "rating": "Three"
+    },
+    {
+        "book_title": "The Thing About Jellyfish",
+        "price": "\u00a348.77",
+        "availability_in_stock": 696,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Lonely Ones",
+        "price": "\u00a343.59",
+        "availability_in_stock": 300,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Chase Me (Paris Nights #2)",
+        "price": "\u00a325.27",
+        "availability_in_stock": 441,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Day the Crayons Came Home (Crayons)",
+        "price": "\u00a326.33",
+        "availability_in_stock": 887,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Black Dust",
+        "price": "\u00a334.53",
+        "availability_in_stock": 177,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Her Backup Boyfriend (The Sorensen Family #1)",
+        "price": "\u00a333.97",
+        "availability_in_stock": 217,
+        "rating": "One"
+    },
+    {
+        "book_title": "Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",
+        "price": "\u00a337.97",
+        "availability_in_stock": 632,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Sharp Objects",
+        "price": "\u00a347.82",
+        "availability_in_stock": 638,
+        "rating": "Four"
+    },
+    {
+        "book_title": "First and First (Five Boroughs #3)",
+        "price": "\u00a315.97",
+        "availability_in_stock": 478,
+        "rating": "Four"
+    },
+    {
+        "book_title": "You Are What You Love: The Spiritual Power of Habit",
+        "price": "\u00a321.87",
+        "availability_in_stock": 504,
+        "rating": "Four"
+    },
+    {
+        "book_title": "In a Dark, Dark Wood",
+        "price": "\u00a319.63",
+        "availability_in_stock": 598,
+        "rating": "One"
+    },
+    {
+        "book_title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+        "price": "\u00a352.29",
+        "availability_in_stock": 143,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Worlds Elsewhere: Journeys Around Shakespeare\u2019s Globe",
+        "price": "\u00a340.30",
+        "availability_in_stock": 223,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Rip it Up and Start Again",
+        "price": "\u00a335.02",
+        "availability_in_stock": 540,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Fifty Shades Darker (Fifty Shades #2)",
+        "price": "\u00a321.96",
+        "availability_in_stock": 372,
+        "rating": "One"
+    },
+    {
+        "book_title": "God: The Most Unpleasant Character in All Fiction",
+        "price": "\u00a330.03",
+        "availability_in_stock": 176,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Past Never Ends",
+        "price": "\u00a356.50",
+        "availability_in_stock": 499,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)",
+        "price": "\u00a316.28",
+        "availability_in_stock": 700,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Five Love Languages: How to Express Heartfelt Commitment to Your Mate",
+        "price": "\u00a331.05",
+        "availability_in_stock": 300,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+        "price": "\u00a357.25",
+        "availability_in_stock": 994,
+        "rating": "Three"
+    },
+    {
+        "book_title": "The Wedding Dress",
+        "price": "\u00a324.12",
+        "availability_in_stock": 182,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Book of Mormon",
+        "price": "\u00a324.57",
+        "availability_in_stock": 824,
+        "rating": "Three"
+    },
+    {
+        "book_title": "A Murder in Time",
+        "price": "\u00a316.64",
+        "availability_in_stock": 830,
+        "rating": "One"
+    },
+    {
+        "book_title": "This One Summer",
+        "price": "\u00a319.49",
+        "availability_in_stock": 622,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Reasons to Stay Alive",
+        "price": "\u00a326.41",
+        "availability_in_stock": 682,
+        "rating": "Two"
+    },
+    {
+        "book_title": "How Music Works",
+        "price": "\u00a337.32",
+        "availability_in_stock": 649,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Suddenly in Love (Lake Haven #1)",
+        "price": "\u00a355.99",
+        "availability_in_stock": 1000,
+        "rating": "Two"
+    },
+    {
+        "book_title": "A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",
+        "price": "\u00a327.62",
+        "availability_in_stock": 319,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Murder of Roger Ackroyd (Hercule Poirot #4)",
+        "price": "\u00a344.10",
+        "availability_in_stock": 795,
+        "rating": "Four"
+    },
+    {
+        "book_title": "The Nameless City (The Nameless City #1)",
+        "price": "\u00a338.16",
+        "availability_in_stock": 366,
+        "rating": "Four"
+    },
+    {
+        "book_title": "#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.",
+        "price": "\u00a323.11",
+        "availability_in_stock": 595,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Love Is a Mix Tape (Music #1)",
+        "price": "\u00a318.03",
+        "availability_in_stock": 459,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Secret Garden",
+        "price": "\u00a315.08",
+        "availability_in_stock": 744,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Something More Than This",
+        "price": "\u00a316.24",
+        "availability_in_stock": 444,
+        "rating": "Four"
+    },
+    {
+        "book_title": "The Bhagavad Gita",
+        "price": "\u00a357.49",
+        "availability_in_stock": 321,
+        "rating": "Three"
+    },
+    {
+        "book_title": "The Last Mile (Amos Decker #2)",
+        "price": "\u00a354.21",
+        "availability_in_stock": 245,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Saga, Volume 5 (Saga (Collected Editions) #5)",
+        "price": "\u00a351.04",
+        "availability_in_stock": 840,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",
+        "price": "\u00a344.18",
+        "availability_in_stock": 600,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Please Kill Me: The Uncensored Oral History of Punk",
+        "price": "\u00a331.19",
+        "availability_in_stock": 364,
+        "rating": "Four"
+    },
+    {
+        "book_title": "The Metamorphosis",
+        "price": "\u00a328.58",
+        "availability_in_stock": 599,
+        "rating": "One"
+    },
+    {
+        "book_title": "Tipping the Velvet",
+        "price": "\u00a353.74",
+        "availability_in_stock": 242,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+        "price": "\u00a317.93",
+        "availability_in_stock": 443,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Doing It Over (Most Likely To #1)",
+        "price": "\u00a335.61",
+        "availability_in_stock": 623,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Choosing Our Religion: The Spiritual Lives of America's Nones",
+        "price": "\u00a328.42",
+        "availability_in_stock": 851,
+        "rating": "Four"
+    },
+    {
+        "book_title": "That Darkness (Gardiner and Renner #1)",
+        "price": "\u00a313.92",
+        "availability_in_stock": 23,
+        "rating": "One"
+    },
+    {
+        "book_title": "Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",
+        "price": "\u00a350.40",
+        "availability_in_stock": 534,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity",
+        "price": "\u00a331.12",
+        "availability_in_stock": 576,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Kill 'Em and Leave: Searching for James Brown and the American Soul",
+        "price": "\u00a345.05",
+        "availability_in_stock": 296,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Pilgrim's Progress",
+        "price": "\u00a350.26",
+        "availability_in_stock": 637,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton",
+        "price": "\u00a329.69",
+        "availability_in_stock": 999,
+        "rating": "Three"
+    },
+    {
+        "book_title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+        "price": "\u00a322.60",
+        "availability_in_stock": 541,
+        "rating": "Four"
+    },
+    {
+        "book_title": "The Wedding Pact (The O'Malleys #2)",
+        "price": "\u00a332.61",
+        "availability_in_stock": 940,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Tastes Like Fear (DI Marnie Rome #3)",
+        "price": "\u00a310.69",
+        "availability_in_stock": 597,
+        "rating": "One"
+    },
+    {
+        "book_title": "Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",
+        "price": "\u00a313.61",
+        "availability_in_stock": 486,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing",
+        "price": "\u00a316.77",
+        "availability_in_stock": 541,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Chronicles, Vol. 1",
+        "price": "\u00a352.60",
+        "availability_in_stock": 286,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Dark Notes",
+        "price": "\u00a319.19",
+        "availability_in_stock": 264,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+        "price": "\u00a337.59",
+        "availability_in_stock": 354,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Long Shadow of Small Ghosts: Murder and Memory in an American City",
+        "price": "\u00a310.97",
+        "availability_in_stock": 244,
+        "rating": "One"
+    },
+    {
+        "book_title": "Amid the Chaos",
+        "price": "\u00a336.58",
+        "availability_in_stock": 952,
+        "rating": "One"
+    },
+    {
+        "book_title": "Libertarianism for Beginners",
+        "price": "\u00a351.33",
+        "availability_in_stock": 456,
+        "rating": "Two"
+    },
+    {
+        "book_title": "The Hound of the Baskervilles (Sherlock Holmes #5)",
+        "price": "\u00a314.82",
+        "availability_in_stock": 650,
+        "rating": "Two"
+    },
+    {
+        "book_title": "A Flight of Arrows (The Pathfinders #2)",
+        "price": "\u00a355.53",
+        "availability_in_stock": 752,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Starving Hearts (Triangular Trade Trilogy, #1)",
+        "price": "\u00a313.99",
+        "availability_in_stock": 268,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Hold Your Breath (Search and Rescue #1)",
+        "price": "\u00a328.82",
+        "availability_in_stock": 254,
+        "rating": "One"
+    },
+    {
+        "book_title": "A Time of Torment (Charlie Parker #14)",
+        "price": "\u00a348.35",
+        "availability_in_stock": 839,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Pop Gun War, Volume 1: Gift",
+        "price": "\u00a318.97",
+        "availability_in_stock": 976,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Gutsy Girl: Escapades for Your Life of Epic Adventure",
+        "price": "\u00a337.13",
+        "availability_in_stock": 79,
+        "rating": "One"
+    },
+    {
+        "book_title": "This Is Your Brain on Music: The Science of a Human Obsession",
+        "price": "\u00a338.40",
+        "availability_in_stock": 52,
+        "rating": "One"
+    },
+    {
+        "book_title": "Join",
+        "price": "\u00a335.67",
+        "availability_in_stock": 707,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond",
+        "price": "\u00a352.65",
+        "availability_in_stock": 635,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Little Women (Little Women #1)",
+        "price": "\u00a328.07",
+        "availability_in_stock": 616,
+        "rating": "Four"
+    },
+    {
+        "book_title": "The House by the Lake",
+        "price": "\u00a336.95",
+        "availability_in_stock": 735,
+        "rating": "One"
+    },
+    {
+        "book_title": "America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana",
+        "price": "\u00a322.50",
+        "availability_in_stock": 97,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Dirty (Dive Bar #1)",
+        "price": "\u00a340.83",
+        "availability_in_stock": 427,
+        "rating": "Four"
+    },
+    {
+        "book_title": "A Study in Scarlet (Sherlock Holmes #1)",
+        "price": "\u00a316.73",
+        "availability_in_stock": 775,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Patience",
+        "price": "\u00a310.16",
+        "availability_in_stock": 884,
+        "rating": "Three"
+    },
+    {
+        "book_title": "The Electric Pencil: Drawings from Inside State Hospital No. 3",
+        "price": "\u00a356.06",
+        "availability_in_stock": 876,
+        "rating": "One"
+    },
+    {
+        "book_title": "Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",
+        "price": "\u00a312.36",
+        "availability_in_stock": 574,
+        "rating": "Three"
+    },
+    {
+        "book_title": "William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",
+        "price": "\u00a343.30",
+        "availability_in_stock": 87,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Equal Is Unfair: America's Misguided Fight Against Income Inequality",
+        "price": "\u00a356.86",
+        "availability_in_stock": 723,
+        "rating": "One"
+    },
+    {
+        "book_title": "Gone with the Wind",
+        "price": "\u00a332.49",
+        "availability_in_stock": 576,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Mrs. Houdini",
+        "price": "\u00a330.25",
+        "availability_in_stock": 714,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Aladdin and His Wonderful Lamp",
+        "price": "\u00a353.13",
+        "availability_in_stock": 558,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Take Me Home Tonight (Rock Star Romance #3)",
+        "price": "\u00a353.98",
+        "availability_in_stock": 731,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Poisonous (Max Revere Novels #3)",
+        "price": "\u00a326.80",
+        "availability_in_stock": 838,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",
+        "price": "\u00a315.44",
+        "availability_in_stock": 836,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up",
+        "price": "\u00a341.83",
+        "availability_in_stock": 398,
+        "rating": "Four"
+    },
+    {
+        "book_title": "No One Here Gets Out Alive",
+        "price": "\u00a320.02",
+        "availability_in_stock": 244,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Project",
+        "price": "\u00a310.65",
+        "availability_in_stock": 753,
+        "rating": "One"
+    },
+    {
+        "book_title": "Candide",
+        "price": "\u00a358.63",
+        "availability_in_stock": 913,
+        "rating": "Three"
+    },
+    {
+        "book_title": "The Marriage of Opposites",
+        "price": "\u00a328.08",
+        "availability_in_stock": 412,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Penny Maybe",
+        "price": "\u00a333.29",
+        "availability_in_stock": 404,
+        "rating": "Three"
+    },
+    {
+        "book_title": "The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",
+        "price": "\u00a349.05",
+        "availability_in_stock": 313,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Online Marketing for Busy Authors: A Step-By-Step Guide",
+        "price": "\u00a346.35",
+        "availability_in_stock": 100,
+        "rating": "One"
+    },
+    {
+        "book_title": "All the Light We Cannot See",
+        "price": "\u00a329.87",
+        "availability_in_stock": 555,
+        "rating": "Five"
+    },
+    {
+        "book_title": "(Un)Qualified: How God Uses Broken People to Do Big Things",
+        "price": "\u00a354.00",
+        "availability_in_stock": 672,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Silence in the Dark (Logan Point #4)",
+        "price": "\u00a358.33",
+        "availability_in_stock": 249,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Logan Kade (Fallen Crest High #5.5)",
+        "price": "\u00a313.12",
+        "availability_in_stock": 589,
+        "rating": "Two"
+    },
+    {
+        "book_title": "The Grownup",
+        "price": "\u00a335.88",
+        "availability_in_stock": 978,
+        "rating": "One"
+    },
+    {
+        "book_title": "Off the Hook (Fishing for Trouble #1)",
+        "price": "\u00a347.67",
+        "availability_in_stock": 512,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Murder at the 42nd Street Library (Raymond Ambler #1)",
+        "price": "\u00a354.36",
+        "availability_in_stock": 128,
+        "rating": "Four"
+    },
+    {
+        "book_title": "orange: The Complete Collection 1 (orange: The Complete Collection #1)",
+        "price": "\u00a348.41",
+        "availability_in_stock": 695,
+        "rating": "One"
+    },
+    {
+        "book_title": "Reskilling America: Learning to Labor in the Twenty-First Century",
+        "price": "\u00a319.83",
+        "availability_in_stock": 984,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Life",
+        "price": "\u00a331.58",
+        "availability_in_stock": 466,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Soft Apocalypse",
+        "price": "\u00a326.12",
+        "availability_in_stock": 53,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Animal Farm",
+        "price": "\u00a357.22",
+        "availability_in_stock": 328,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Glory over Everything: Beyond The Kitchen House",
+        "price": "\u00a345.84",
+        "availability_in_stock": 95,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Maude (1883-1993):She Grew Up with the country",
+        "price": "\u00a318.02",
+        "availability_in_stock": 198,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Eat Fat, Get Thin",
+        "price": "\u00a354.07",
+        "availability_in_stock": 114,
+        "rating": "Two"
+    },
+    {
+        "book_title": "How to Be Miserable: 40 Strategies You Already Use",
+        "price": "\u00a346.03",
+        "availability_in_stock": 956,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Girl You Left Behind (The Girl You Left Behind #1)",
+        "price": "\u00a315.79",
+        "availability_in_stock": 101,
+        "rating": "One"
+    },
+    {
+        "book_title": "Crazy Love: Overwhelmed by a Relentless God",
+        "price": "\u00a347.72",
+        "availability_in_stock": 525,
+        "rating": "Two"
+    },
+    {
+        "book_title": "A Gentleman's Position (Society of Gentlemen #3)",
+        "price": "\u00a314.75",
+        "availability_in_stock": 144,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Most Wanted",
+        "price": "\u00a335.28",
+        "availability_in_stock": 775,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",
+        "price": "\u00a346.91",
+        "availability_in_stock": 544,
+        "rating": "Two"
+    },
+    {
+        "book_title": "In the Country We Love: My Family Divided",
+        "price": "\u00a322.00",
+        "availability_in_stock": 838,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Old Records Never Die: One Man's Quest for His Vinyl and His Past",
+        "price": "\u00a355.66",
+        "availability_in_stock": 472,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Sleeping Giants (Themis Files #1)",
+        "price": "\u00a348.74",
+        "availability_in_stock": 471,
+        "rating": "One"
+    },
+    {
+        "book_title": "Wuthering Heights",
+        "price": "\u00a317.73",
+        "availability_in_stock": 948,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Love, Lies and Spies",
+        "price": "\u00a320.55",
+        "availability_in_stock": 824,
+        "rating": "Two"
+    },
+    {
+        "book_title": "The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",
+        "price": "\u00a320.59",
+        "availability_in_stock": 474,
+        "rating": "Five"
+    },
+    {
+        "book_title": "10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!",
+        "price": "\u00a349.71",
+        "availability_in_stock": 165,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",
+        "price": "\u00a352.15",
+        "availability_in_stock": 442,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality",
+        "price": "\u00a325.77",
+        "availability_in_stock": 963,
+        "rating": "One"
+    },
+    {
+        "book_title": "Suzie Snowflake: One beautiful flake (a self-esteem story)",
+        "price": "\u00a354.81",
+        "availability_in_stock": 335,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Sit, Stay, Love",
+        "price": "\u00a320.90",
+        "availability_in_stock": 516,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Hide Away (Eve Duncan #20)",
+        "price": "\u00a311.84",
+        "availability_in_stock": 3,
+        "rating": "One"
+    },
+    {
+        "book_title": "Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",
+        "price": "\u00a345.61",
+        "availability_in_stock": 688,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Everydata: The Misinformation Hidden in the Little Data You Consume Every Day",
+        "price": "\u00a354.35",
+        "availability_in_stock": 360,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Forever Rockers (The Rocker #12)",
+        "price": "\u00a328.80",
+        "availability_in_stock": 298,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Arena",
+        "price": "\u00a321.36",
+        "availability_in_stock": 57,
+        "rating": "Four"
+    },
+    {
+        "book_title": "The Picture of Dorian Gray",
+        "price": "\u00a329.70",
+        "availability_in_stock": 498,
+        "rating": "Two"
+    },
+    {
+        "book_title": "A Paris Apartment",
+        "price": "\u00a339.01",
+        "availability_in_stock": 697,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Soul Reader",
+        "price": "\u00a339.58",
+        "availability_in_stock": 181,
+        "rating": "Two"
+    },
+    {
+        "book_title": "The Art and Science of Low Carbohydrate Living",
+        "price": "\u00a352.98",
+        "availability_in_stock": 942,
+        "rating": "Five"
+    },
+    {
+        "book_title": "You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life",
+        "price": "\u00a312.08",
+        "availability_in_stock": 161,
+        "rating": "Three"
+    },
+    {
+        "book_title": "The Four Agreements: A Practical Guide to Personal Freedom",
+        "price": "\u00a317.66",
+        "availability_in_stock": 243,
+        "rating": "Five"
+    },
+    {
+        "book_title": "A Girl's Guide to Moving On (New Beginnings #2)",
+        "price": "\u00a331.30",
+        "availability_in_stock": 325,
+        "rating": "One"
+    },
+    {
+        "book_title": "Boar Island (Anna Pigeon #19)",
+        "price": "\u00a359.48",
+        "availability_in_stock": 151,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)",
+        "price": "\u00a319.92",
+        "availability_in_stock": 61,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Call the Nurse: True Stories of a Country Nurse on a Scottish Isle",
+        "price": "\u00a329.14",
+        "availability_in_stock": 639,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Foundation (Foundation (Publication Order) #1)",
+        "price": "\u00a332.42",
+        "availability_in_stock": 627,
+        "rating": "One"
+    },
+    {
+        "book_title": "Louisa: The Extraordinary Life of Mrs. Adams",
+        "price": "\u00a316.85",
+        "availability_in_stock": 926,
+        "rating": "Two"
+    },
+    {
+        "book_title": "When We Collided",
+        "price": "\u00a331.77",
+        "availability_in_stock": 593,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition])",
+        "price": "\u00a326.78",
+        "availability_in_stock": 201,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Lilac Girls",
+        "price": "\u00a317.28",
+        "availability_in_stock": 575,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Bossypants",
+        "price": "\u00a349.46",
+        "availability_in_stock": 674,
+        "rating": "Two"
+    },
+    {
+        "book_title": "How to Stop Worrying and Start Living",
+        "price": "\u00a346.49",
+        "availability_in_stock": 177,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution",
+        "price": "\u00a332.24",
+        "availability_in_stock": 208,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Perfect Play (Play by Play #1)",
+        "price": "\u00a359.99",
+        "availability_in_stock": 744,
+        "rating": "Three"
+    },
+    {
+        "book_title": "The Widow",
+        "price": "\u00a327.26",
+        "availability_in_stock": 347,
+        "rating": "Two"
+    },
+    {
+        "book_title": "I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",
+        "price": "\u00a329.17",
+        "availability_in_stock": 20,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Algorithms to Live By: The Computer Science of Human Decisions",
+        "price": "\u00a330.81",
+        "availability_in_stock": 318,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2)",
+        "price": "\u00a310.92",
+        "availability_in_stock": 712,
+        "rating": "One"
+    },
+    {
+        "book_title": "Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",
+        "price": "\u00a321.15",
+        "availability_in_stock": 148,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Someone Like You (The Harrisons #2)",
+        "price": "\u00a352.79",
+        "availability_in_stock": 210,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Dirty Little Secrets of Getting Your Dream Job",
+        "price": "\u00a333.34",
+        "availability_in_stock": 155,
+        "rating": "Four"
+    },
+    {
+        "book_title": "In Her Wake",
+        "price": "\u00a312.84",
+        "availability_in_stock": 875,
+        "rating": "One"
+    },
+    {
+        "book_title": "Redeeming Love",
+        "price": "\u00a320.47",
+        "availability_in_stock": 472,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Beowulf",
+        "price": "\u00a338.35",
+        "availability_in_stock": 894,
+        "rating": "Two"
+    },
+    {
+        "book_title": "The Constant Princess (The Tudor Court #1)",
+        "price": "\u00a316.62",
+        "availability_in_stock": 80,
+        "rating": "Three"
+    },
+    {
+        "book_title": "A World of Flavor: Your Gluten Free Passport",
+        "price": "\u00a342.95",
+        "availability_in_stock": 262,
+        "rating": "One"
+    },
+    {
+        "book_title": "Chasing Heaven: What Dying Taught Me About Living",
+        "price": "\u00a337.80",
+        "availability_in_stock": 49,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Dark Lover (Black Dagger Brotherhood #1)",
+        "price": "\u00a312.87",
+        "availability_in_stock": 776,
+        "rating": "One"
+    },
+    {
+        "book_title": "Playing with Fire",
+        "price": "\u00a313.71",
+        "availability_in_stock": 712,
+        "rating": "Three"
+    },
+    {
+        "book_title": "I am a Hero Omnibus Volume 1",
+        "price": "\u00a354.63",
+        "availability_in_stock": 498,
+        "rating": "Three"
+    },
+    {
+        "book_title": "The Power of Now: A Guide to Spiritual Enlightenment",
+        "price": "\u00a343.54",
+        "availability_in_stock": 720,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Ready Player One",
+        "price": "\u00a319.07",
+        "availability_in_stock": 429,
+        "rating": "Four"
+    },
+    {
+        "book_title": "The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist",
+        "price": "\u00a339.55",
+        "availability_in_stock": 545,
+        "rating": "One"
+    },
+    {
+        "book_title": "We Are All Completely Beside Ourselves",
+        "price": "\u00a324.04",
+        "availability_in_stock": 202,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Third Wave: An Entrepreneur\u2019s Vision of the Future",
+        "price": "\u00a312.61",
+        "availability_in_stock": 173,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Elephant Tree",
+        "price": "\u00a323.82",
+        "availability_in_stock": 532,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Close to You",
+        "price": "\u00a349.46",
+        "availability_in_stock": 194,
+        "rating": "Four"
+    },
+    {
+        "book_title": "And Then There Were None",
+        "price": "\u00a335.01",
+        "availability_in_stock": 100,
+        "rating": "Two"
+    },
+    {
+        "book_title": "The Invention of Wings",
+        "price": "\u00a337.34",
+        "availability_in_stock": 99,
+        "rating": "One"
+    },
+    {
+        "book_title": "A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",
+        "price": "\u00a356.76",
+        "availability_in_stock": 755,
+        "rating": "Five"
+    },
+    {
+        "book_title": "If I Gave You God's Phone Number....: Searching for Spirituality in America",
+        "price": "\u00a320.91",
+        "availability_in_stock": 909,
+        "rating": "One"
+    },
+    {
+        "book_title": "Changing the Game (Play by Play #2)",
+        "price": "\u00a313.38",
+        "availability_in_stock": 69,
+        "rating": "Three"
+    },
+    {
+        "book_title": "What Happened on Beale Street (Secrets of the South Mysteries #2)",
+        "price": "\u00a325.37",
+        "availability_in_stock": 931,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Giant Days, Vol. 2 (Giant Days #5-8)",
+        "price": "\u00a322.11",
+        "availability_in_stock": 968,
+        "rating": "Two"
+    },
+    {
+        "book_title": "The Omnivore's Dilemma: A Natural History of Four Meals",
+        "price": "\u00a338.21",
+        "availability_in_stock": 31,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",
+        "price": "\u00a333.26",
+        "availability_in_stock": 734,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Benjamin Franklin: An American Life",
+        "price": "\u00a348.19",
+        "availability_in_stock": 717,
+        "rating": "Three"
+    },
+    {
+        "book_title": "The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job",
+        "price": "\u00a327.55",
+        "availability_in_stock": 85,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Behind Closed Doors",
+        "price": "\u00a352.22",
+        "availability_in_stock": 607,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Shadows of the Past (Logan Point #1)",
+        "price": "\u00a339.67",
+        "availability_in_stock": 287,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Story of Hong Gildong",
+        "price": "\u00a343.19",
+        "availability_in_stock": 654,
+        "rating": "Four"
+    },
+    {
+        "book_title": "World Without End (The Pillars of the Earth #2)",
+        "price": "\u00a332.97",
+        "availability_in_stock": 657,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Tracing Numbers on a Train",
+        "price": "\u00a341.60",
+        "availability_in_stock": 222,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain",
+        "price": "\u00a346.33",
+        "availability_in_stock": 457,
+        "rating": "Two"
+    },
+    {
+        "book_title": "The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)",
+        "price": "\u00a352.30",
+        "availability_in_stock": 236,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Danganronpa Volume 1",
+        "price": "\u00a351.99",
+        "availability_in_stock": 833,
+        "rating": "Four"
+    },
+    {
+        "book_title": "The Genius of Birds",
+        "price": "\u00a317.24",
+        "availability_in_stock": 526,
+        "rating": "One"
+    },
+    {
+        "book_title": "Dune (Dune #1)",
+        "price": "\u00a354.86",
+        "availability_in_stock": 574,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Rise of Theodore Roosevelt (Theodore Roosevelt #1)",
+        "price": "\u00a342.57",
+        "availability_in_stock": 164,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Shoe Dog: A Memoir by the Creator of NIKE",
+        "price": "\u00a323.99",
+        "availability_in_stock": 259,
+        "rating": "Two"
+    },
+    {
+        "book_title": "You (You #1)",
+        "price": "\u00a343.61",
+        "availability_in_stock": 41,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Like Never Before (Walker Family #2)",
+        "price": "\u00a328.77",
+        "availability_in_stock": 937,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",
+        "price": "\u00a330.52",
+        "availability_in_stock": 331,
+        "rating": "Three"
+    },
+    {
+        "book_title": "The Long Haul (Diary of a Wimpy Kid #9)",
+        "price": "\u00a344.07",
+        "availability_in_stock": 17,
+        "rating": "One"
+    },
+    {
+        "book_title": "Fifty Shades Freed (Fifty Shades #3)",
+        "price": "\u00a315.36",
+        "availability_in_stock": 5,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Little Prince",
+        "price": "\u00a345.42",
+        "availability_in_stock": 486,
+        "rating": "Two"
+    },
+    {
+        "book_title": "The Passion of Dolssa",
+        "price": "\u00a328.32",
+        "availability_in_stock": 543,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Thirteen Reasons Why",
+        "price": "\u00a352.72",
+        "availability_in_stock": 297,
+        "rating": "One"
+    },
+    {
+        "book_title": "A New Earth: Awakening to Your Life's Purpose",
+        "price": "\u00a355.65",
+        "availability_in_stock": 200,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Delivering the Truth (Quaker Midwife Mystery #1)",
+        "price": "\u00a320.89",
+        "availability_in_stock": 184,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Codename Baboushka, Volume 1: The Conclave of Death",
+        "price": "\u00a336.72",
+        "availability_in_stock": 810,
+        "rating": "Four"
+    },
+    {
+        "book_title": "The Artist's Way: A Spiritual Path to Higher Creativity",
+        "price": "\u00a338.49",
+        "availability_in_stock": 810,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Do Androids Dream of Electric Sheep? (Blade Runner #1)",
+        "price": "\u00a351.48",
+        "availability_in_stock": 296,
+        "rating": "One"
+    },
+    {
+        "book_title": "Made to Stick: Why Some Ideas Survive and Others Die",
+        "price": "\u00a338.85",
+        "availability_in_stock": 661,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Guilty (Will Robie #4)",
+        "price": "\u00a313.82",
+        "availability_in_stock": 203,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Counted With the Stars (Out from Egypt #1)",
+        "price": "\u00a317.97",
+        "availability_in_stock": 802,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",
+        "price": "\u00a356.41",
+        "availability_in_stock": 579,
+        "rating": "One"
+    },
+    {
+        "book_title": "Old School (Diary of a Wimpy Kid #10)",
+        "price": "\u00a311.83",
+        "availability_in_stock": 77,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Sense and Sensibility",
+        "price": "\u00a337.46",
+        "availability_in_stock": 834,
+        "rating": "One"
+    },
+    {
+        "book_title": "Girl With a Pearl Earring",
+        "price": "\u00a326.77",
+        "availability_in_stock": 120,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Secret (The Secret #1)",
+        "price": "\u00a327.37",
+        "availability_in_stock": 872,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Catastrophic Happiness: Finding Joy in Childhood's Messy Years",
+        "price": "\u00a337.35",
+        "availability_in_stock": 979,
+        "rating": "Two"
+    },
+    {
+        "book_title": "The Argonauts",
+        "price": "\u00a310.93",
+        "availability_in_stock": 668,
+        "rating": "Two"
+    },
+    {
+        "book_title": "The Lucifer Effect: Understanding How Good People Turn Evil",
+        "price": "\u00a310.40",
+        "availability_in_stock": 452,
+        "rating": "One"
+    },
+    {
+        "book_title": "Camp Midnight",
+        "price": "\u00a317.08",
+        "availability_in_stock": 235,
+        "rating": "Four"
+    },
+    {
+        "book_title": "So You've Been Publicly Shamed",
+        "price": "\u00a312.23",
+        "availability_in_stock": 578,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Three Wishes (River of Time: California #1)",
+        "price": "\u00a344.18",
+        "availability_in_stock": 137,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two",
+        "price": "\u00a343.14",
+        "availability_in_stock": 91,
+        "rating": "One"
+    },
+    {
+        "book_title": "The 14th Colony (Cotton Malone #11)",
+        "price": "\u00a339.24",
+        "availability_in_stock": 473,
+        "rating": "One"
+    },
+    {
+        "book_title": "If I Run (If I Run #1)",
+        "price": "\u00a349.97",
+        "availability_in_stock": 846,
+        "rating": "Four"
+    },
+    {
+        "book_title": "My Paris Kitchen: Recipes and Stories",
+        "price": "\u00a333.37",
+        "availability_in_stock": 362,
+        "rating": "Two"
+    },
+    {
+        "book_title": "I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction",
+        "price": "\u00a325.98",
+        "availability_in_stock": 816,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Of Mice and Men",
+        "price": "\u00a347.11",
+        "availability_in_stock": 28,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Voyager (Outlander #3)",
+        "price": "\u00a321.07",
+        "availability_in_stock": 633,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Psychopath Test: A Journey Through the Madness Industry",
+        "price": "\u00a336.00",
+        "availability_in_stock": 801,
+        "rating": "Two"
+    },
+    {
+        "book_title": "M Train",
+        "price": "\u00a327.18",
+        "availability_in_stock": 329,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Golden Condom: And Other Essays on Love Lost and Found",
+        "price": "\u00a339.43",
+        "availability_in_stock": 236,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Last Girl (The Dominion Trilogy #1)",
+        "price": "\u00a336.26",
+        "availability_in_stock": 702,
+        "rating": "Two"
+    },
+    {
+        "book_title": "The Art of Startup Fundraising",
+        "price": "\u00a321.00",
+        "availability_in_stock": 784,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Give It Back",
+        "price": "\u00a318.32",
+        "availability_in_stock": 637,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",
+        "price": "\u00a314.02",
+        "availability_in_stock": 394,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",
+        "price": "\u00a314.75",
+        "availability_in_stock": 155,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Emma",
+        "price": "\u00a332.93",
+        "availability_in_stock": 207,
+        "rating": "Two"
+    },
+    {
+        "book_title": "The Red Tent",
+        "price": "\u00a335.66",
+        "availability_in_stock": 846,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Kite Runner",
+        "price": "\u00a341.82",
+        "availability_in_stock": 215,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Lab Girl",
+        "price": "\u00a340.85",
+        "availability_in_stock": 267,
+        "rating": "One"
+    },
+    {
+        "book_title": "It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle",
+        "price": "\u00a356.27",
+        "availability_in_stock": 409,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Security",
+        "price": "\u00a339.25",
+        "availability_in_stock": 572,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Having the Barbarian's Baby (Ice Planet Barbarians #7.5)",
+        "price": "\u00a334.96",
+        "availability_in_stock": 849,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Born for This: How to Find the Work You Were Meant to Do",
+        "price": "\u00a321.59",
+        "availability_in_stock": 62,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Killing Floor (Jack Reacher #1)",
+        "price": "\u00a331.49",
+        "availability_in_stock": 803,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Layered: Baking, Building, and Styling Spectacular Cakes",
+        "price": "\u00a340.11",
+        "availability_in_stock": 924,
+        "rating": "One"
+    },
+    {
+        "book_title": "Dress Your Family in Corduroy and Denim",
+        "price": "\u00a343.68",
+        "availability_in_stock": 631,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Alice in Wonderland (Alice's Adventures in Wonderland #1)",
+        "price": "\u00a355.53",
+        "availability_in_stock": 571,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Last Painting of Sara de Vos",
+        "price": "\u00a355.55",
+        "availability_in_stock": 932,
+        "rating": "Two"
+    },
+    {
+        "book_title": "The Girl on the Train",
+        "price": "\u00a355.02",
+        "availability_in_stock": 216,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Approval Junkie: Adventures in Caring Too Much",
+        "price": "\u00a358.81",
+        "availability_in_stock": 354,
+        "rating": "Five"
+    },
+    {
+        "book_title": "An Unquiet Mind: A Memoir of Moods and Madness",
+        "price": "\u00a321.30",
+        "availability_in_stock": 425,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Follow You Home",
+        "price": "\u00a321.36",
+        "availability_in_stock": 984,
+        "rating": "One"
+    },
+    {
+        "book_title": "Wall and Piece",
+        "price": "\u00a344.18",
+        "availability_in_stock": 890,
+        "rating": "Four"
+    },
+    {
+        "book_title": "The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It",
+        "price": "\u00a336.91",
+        "availability_in_stock": 479,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Bone Hunters (Lexy Vaughan & Steven Macaulay #2)",
+        "price": "\u00a359.71",
+        "availability_in_stock": 119,
+        "rating": "Three"
+    },
+    {
+        "book_title": "The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us",
+        "price": "\u00a337.34",
+        "availability_in_stock": 60,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Toddlers Are A**holes: It's Not Your Fault",
+        "price": "\u00a325.55",
+        "availability_in_stock": 396,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Guernsey Literary and Potato Peel Pie Society",
+        "price": "\u00a349.53",
+        "availability_in_stock": 43,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Emerald Mystery",
+        "price": "\u00a323.15",
+        "availability_in_stock": 859,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Running with Scissors",
+        "price": "\u00a312.91",
+        "availability_in_stock": 845,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Thinking, Fast and Slow",
+        "price": "\u00a321.14",
+        "availability_in_stock": 533,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Loney",
+        "price": "\u00a323.40",
+        "availability_in_stock": 563,
+        "rating": "One"
+    },
+    {
+        "book_title": "Feathers: Displays of Brilliant Plumage",
+        "price": "\u00a349.05",
+        "availability_in_stock": 278,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Vampire Knight, Vol. 1 (Vampire Knight #1)",
+        "price": "\u00a315.40",
+        "availability_in_stock": 369,
+        "rating": "One"
+    },
+    {
+        "book_title": "A Light in the Attic",
+        "price": "\u00a351.77",
+        "availability_in_stock": 516,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Sapiens: A Brief History of Humankind",
+        "price": "\u00a354.23",
+        "availability_in_stock": 946,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Requiem Red",
+        "price": "\u00a322.65",
+        "availability_in_stock": 256,
+        "rating": "One"
+    },
+    {
+        "book_title": "Rich Dad, Poor Dad",
+        "price": "\u00a351.74",
+        "availability_in_stock": 639,
+        "rating": "One"
+    },
+    {
+        "book_title": "Far From True (Promise Falls Trilogy #2)",
+        "price": "\u00a334.93",
+        "availability_in_stock": 61,
+        "rating": "Two"
+    },
+    {
+        "book_title": "The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking",
+        "price": "\u00a337.60",
+        "availability_in_stock": 852,
+        "rating": "Two"
+    },
+    {
+        "book_title": "When You Are Engulfed in Flames",
+        "price": "\u00a330.89",
+        "availability_in_stock": 994,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Girl in the Blue Coat",
+        "price": "\u00a346.83",
+        "availability_in_stock": 82,
+        "rating": "Two"
+    },
+    {
+        "book_title": "The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.",
+        "price": "\u00a332.00",
+        "availability_in_stock": 394,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Me Talk Pretty One Day",
+        "price": "\u00a357.60",
+        "availability_in_stock": 858,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Civilization and Its Discontents",
+        "price": "\u00a359.95",
+        "availability_in_stock": 918,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Pet Sematary",
+        "price": "\u00a310.56",
+        "availability_in_stock": 582,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Art and Fear: Observations on the Perils (and Rewards) of Artmaking",
+        "price": "\u00a348.63",
+        "availability_in_stock": 217,
+        "rating": "Four"
+    },
+    {
+        "book_title": "The Black Maria",
+        "price": "\u00a352.15",
+        "availability_in_stock": 553,
+        "rating": "One"
+    },
+    {
+        "book_title": "Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",
+        "price": "\u00a325.52",
+        "availability_in_stock": 367,
+        "rating": "One"
+    },
+    {
+        "book_title": "Set Me Free",
+        "price": "\u00a317.46",
+        "availability_in_stock": 840,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Most Perfect Thing: Inside (and Outside) a Bird's Egg",
+        "price": "\u00a342.96",
+        "availability_in_stock": 671,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Without Borders (Wanderlove #1)",
+        "price": "\u00a345.07",
+        "availability_in_stock": 982,
+        "rating": "Two"
+    },
+    {
+        "book_title": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+        "price": "\u00a333.92",
+        "availability_in_stock": 633,
+        "rating": "Three"
+    },
+    {
+        "book_title": "The Travelers",
+        "price": "\u00a315.77",
+        "availability_in_stock": 612,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First",
+        "price": "\u00a341.25",
+        "availability_in_stock": 879,
+        "rating": "One"
+    },
+    {
+        "book_title": "Naked",
+        "price": "\u00a331.69",
+        "availability_in_stock": 18,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Lust & Wonder",
+        "price": "\u00a311.87",
+        "availability_in_stock": 132,
+        "rating": "Two"
+    },
+    {
+        "book_title": "8 Keys to Mental Health Through Exercise",
+        "price": "\u00a331.04",
+        "availability_in_stock": 442,
+        "rating": "One"
+    },
+    {
+        "book_title": "Doctor Sleep (The Shining #2)",
+        "price": "\u00a340.12",
+        "availability_in_stock": 229,
+        "rating": "Two"
+    },
+    {
+        "book_title": "The New Drawing on the Right Side of the Brain",
+        "price": "\u00a343.02",
+        "availability_in_stock": 77,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Shakespeare's Sonnets",
+        "price": "\u00a320.66",
+        "availability_in_stock": 120,
+        "rating": "Four"
+    },
+    {
+        "book_title": "The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind",
+        "price": "\u00a319.73",
+        "availability_in_stock": 195,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Natural History of Us (The Fine Art of Pretending #2)",
+        "price": "\u00a345.22",
+        "availability_in_stock": 80,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine",
+        "price": "\u00a357.36",
+        "availability_in_stock": 59,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Mistake (Off-Campus #2)",
+        "price": "\u00a343.29",
+        "availability_in_stock": 374,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Rework",
+        "price": "\u00a344.88",
+        "availability_in_stock": 556,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",
+        "price": "\u00a342.16",
+        "availability_in_stock": 826,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Lamb: The Gospel According to Biff, Christ's Childhood Pal",
+        "price": "\u00a355.50",
+        "availability_in_stock": 658,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Life Without a Recipe",
+        "price": "\u00a359.04",
+        "availability_in_stock": 348,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Psycho: Sanitarium (Psycho #1.5)",
+        "price": "\u00a336.97",
+        "availability_in_stock": 512,
+        "rating": "Five"
+    },
+    {
+        "book_title": "History of Beauty",
+        "price": "\u00a310.29",
+        "availability_in_stock": 434,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Olio",
+        "price": "\u00a323.88",
+        "availability_in_stock": 822,
+        "rating": "One"
+    },
+    {
+        "book_title": "Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",
+        "price": "\u00a336.28",
+        "availability_in_stock": 718,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Obsidian (Lux #1)",
+        "price": "\u00a314.86",
+        "availability_in_stock": 3,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Sorting the Beef from the Bull: The Science of Food Fraud Forensics",
+        "price": "\u00a344.74",
+        "availability_in_stock": 50,
+        "rating": "Four"
+    },
+    {
+        "book_title": "The Matchmaker's Playbook (Wingmen Inc. #1)",
+        "price": "\u00a355.85",
+        "availability_in_stock": 369,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth",
+        "price": "\u00a328.77",
+        "availability_in_stock": 143,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Holidays on Ice",
+        "price": "\u00a351.07",
+        "availability_in_stock": 648,
+        "rating": "Two"
+    },
+    {
+        "book_title": "A Heartbreaking Work of Staggering Genius",
+        "price": "\u00a354.29",
+        "availability_in_stock": 680,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Can You Keep a Secret? (Fear Street Relaunch #4)",
+        "price": "\u00a348.64",
+        "availability_in_stock": 747,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Story of Art",
+        "price": "\u00a341.14",
+        "availability_in_stock": 254,
+        "rating": "Four"
+    },
+    {
+        "book_title": "You can't bury them all: Poems",
+        "price": "\u00a333.63",
+        "availability_in_stock": 372,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History",
+        "price": "\u00a359.64",
+        "availability_in_stock": 545,
+        "rating": "One"
+    },
+    {
+        "book_title": "Burning",
+        "price": "\u00a328.81",
+        "availability_in_stock": 842,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Tipping Point for Planet Earth: How Close Are We to the Edge?",
+        "price": "\u00a337.55",
+        "availability_in_stock": 83,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Hook Up (Game On #1)",
+        "price": "\u00a336.29",
+        "availability_in_stock": 874,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Book of Basketball: The NBA According to The Sports Guy",
+        "price": "\u00a344.84",
+        "availability_in_stock": 896,
+        "rating": "Five"
+    },
+    {
+        "book_title": "It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",
+        "price": "\u00a319.55",
+        "availability_in_stock": 710,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Torch Is Passed: A Harding Family Story",
+        "price": "\u00a319.09",
+        "availability_in_stock": 504,
+        "rating": "One"
+    },
+    {
+        "book_title": "Red Dragon (Hannibal Lecter #1)",
+        "price": "\u00a323.37",
+        "availability_in_stock": 49,
+        "rating": "Three"
+    },
+    {
+        "book_title": "The Art Book",
+        "price": "\u00a332.34",
+        "availability_in_stock": 831,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Slow States of Collapse: Poems",
+        "price": "\u00a357.31",
+        "availability_in_stock": 704,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Zealot: The Life and Times of Jesus of Nazareth",
+        "price": "\u00a324.70",
+        "availability_in_stock": 656,
+        "rating": "Three"
+    },
+    {
+        "book_title": "A Fierce and Subtle Poison",
+        "price": "\u00a328.13",
+        "availability_in_stock": 163,
+        "rating": "Four"
+    },
+    {
+        "book_title": "The Fabric of the Cosmos: Space, Time, and the Texture of Reality",
+        "price": "\u00a355.91",
+        "availability_in_stock": 624,
+        "rating": "One"
+    },
+    {
+        "book_title": "Shameless",
+        "price": "\u00a358.35",
+        "availability_in_stock": 5,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Friday Night Lights: A Town, a Team, and a Dream",
+        "price": "\u00a351.22",
+        "availability_in_stock": 664,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Barefoot Contessa Back to Basics",
+        "price": "\u00a328.01",
+        "availability_in_stock": 815,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",
+        "price": "\u00a323.89",
+        "availability_in_stock": 965,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Dracula the Un-Dead",
+        "price": "\u00a335.63",
+        "availability_in_stock": 261,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Ways of Seeing",
+        "price": "\u00a339.51",
+        "availability_in_stock": 469,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Untitled Collection: Sabbath Poems 2014",
+        "price": "\u00a314.27",
+        "availability_in_stock": 858,
+        "rating": "Four"
+    },
+    {
+        "book_title": "A Distant Mirror: The Calamitous 14th Century",
+        "price": "\u00a314.58",
+        "availability_in_stock": 742,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Scarlett Epstein Hates It Here",
+        "price": "\u00a343.55",
+        "availability_in_stock": 23,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World",
+        "price": "\u00a328.41",
+        "availability_in_stock": 266,
+        "rating": "One"
+    },
+    {
+        "book_title": "Off Sides (Off #1)",
+        "price": "\u00a339.45",
+        "availability_in_stock": 878,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Sugar Rush (Offensive Line #2)",
+        "price": "\u00a324.42",
+        "availability_in_stock": 290,
+        "rating": "One"
+    },
+    {
+        "book_title": "Unicorn Tracks",
+        "price": "\u00a318.78",
+        "availability_in_stock": 675,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again",
+        "price": "\u00a350.62",
+        "availability_in_stock": 265,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Art Forger",
+        "price": "\u00a340.76",
+        "availability_in_stock": 940,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Night Shift (Night Shift #1-20)",
+        "price": "\u00a312.75",
+        "availability_in_stock": 518,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Poems That Make Grown Women Cry",
+        "price": "\u00a314.19",
+        "availability_in_stock": 901,
+        "rating": "Four"
+    },
+    {
+        "book_title": "1491: New Revelations of the Americas Before Columbus",
+        "price": "\u00a321.80",
+        "availability_in_stock": 941,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Nightingale, Sing",
+        "price": "\u00a338.28",
+        "availability_in_stock": 737,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Origin of Species",
+        "price": "\u00a310.01",
+        "availability_in_stock": 791,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Settling the Score (The Summer Games #1)",
+        "price": "\u00a344.91",
+        "availability_in_stock": 686,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Saga, Volume 6 (Saga (Collected Editions) #6)",
+        "price": "\u00a325.02",
+        "availability_in_stock": 828,
+        "rating": "Three"
+    },
+    {
+        "book_title": "My Kitchen Year: 136 Recipes That Saved My Life",
+        "price": "\u00a311.53",
+        "availability_in_stock": 670,
+        "rating": "Two"
+    },
+    {
+        "book_title": "On a Midnight Clear",
+        "price": "\u00a314.07",
+        "availability_in_stock": 553,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Needful Things",
+        "price": "\u00a347.51",
+        "availability_in_stock": 629,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Night Sky with Exit Wounds",
+        "price": "\u00a341.05",
+        "availability_in_stock": 727,
+        "rating": "One"
+    },
+    {
+        "book_title": "Brilliant Beacons: A History of the American Lighthouse",
+        "price": "\u00a311.45",
+        "availability_in_stock": 410,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Library of Souls (Miss Peregrine\u2019s Peculiar Children #3)",
+        "price": "\u00a348.56",
+        "availability_in_stock": 993,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Grand Design",
+        "price": "\u00a313.76",
+        "availability_in_stock": 692,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Icing (Aces Hockey #2)",
+        "price": "\u00a340.44",
+        "availability_in_stock": 420,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Princess Between Worlds (Wide-Awake Princess #5)",
+        "price": "\u00a313.34",
+        "availability_in_stock": 82,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Everyday Italian: 125 Simple and Delicious Recipes",
+        "price": "\u00a320.10",
+        "availability_in_stock": 745,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners)",
+        "price": "\u00a353.90",
+        "availability_in_stock": 472,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Misery",
+        "price": "\u00a334.79",
+        "availability_in_stock": 888,
+        "rating": "Two"
+    },
+    {
+        "book_title": "salt.",
+        "price": "\u00a346.78",
+        "availability_in_stock": 905,
+        "rating": "Four"
+    },
+    {
+        "book_title": "\"Most Blessed of the Patriarchs\": Thomas Jefferson and the Empire of the Imagination",
+        "price": "\u00a344.48",
+        "availability_in_stock": 298,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Frostbite (Vampire Academy #2)",
+        "price": "\u00a329.99",
+        "availability_in_stock": 213,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Peak: Secrets from the New Science of Expertise",
+        "price": "\u00a316.28",
+        "availability_in_stock": 843,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Masks and Shadows",
+        "price": "\u00a356.40",
+        "availability_in_stock": 351,
+        "rating": "Two"
+    },
+    {
+        "book_title": "A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",
+        "price": "\u00a338.77",
+        "availability_in_stock": 468,
+        "rating": "One"
+    },
+    {
+        "book_title": "Shobu Samurai, Project Aryoku (#3)",
+        "price": "\u00a329.06",
+        "availability_in_stock": 222,
+        "rating": "Three"
+    },
+    {
+        "book_title": "It",
+        "price": "\u00a325.01",
+        "availability_in_stock": 227,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Quarter Life Poetry: Poems for the Young, Broke and Hangry",
+        "price": "\u00a350.89",
+        "availability_in_stock": 292,
+        "rating": "Five"
+    },
+    {
+        "book_title": "A Short History of Nearly Everything",
+        "price": "\u00a352.40",
+        "availability_in_stock": 97,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Wild Swans",
+        "price": "\u00a314.36",
+        "availability_in_stock": 154,
+        "rating": "Two"
+    },
+    {
+        "book_title": "The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",
+        "price": "\u00a313.03",
+        "availability_in_stock": 180,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Crown of Midnight (Throne of Glass #2)",
+        "price": "\u00a343.29",
+        "availability_in_stock": 44,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Cravings: Recipes for What You Want to Eat",
+        "price": "\u00a320.50",
+        "availability_in_stock": 886,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Modern Romance",
+        "price": "\u00a328.26",
+        "availability_in_stock": 146,
+        "rating": "Five"
+    },
+    {
+        "book_title": "'Salem's Lot",
+        "price": "\u00a349.56",
+        "availability_in_stock": 878,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Out of Print: City Lights Spotlight No. 14",
+        "price": "\u00a353.64",
+        "availability_in_stock": 241,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Rise and Fall of the Third Reich: A History of Nazi Germany",
+        "price": "\u00a339.67",
+        "availability_in_stock": 837,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Until Friday Night (The Field Party #1)",
+        "price": "\u00a346.31",
+        "availability_in_stock": 525,
+        "rating": "Two"
+    },
+    {
+        "book_title": "The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",
+        "price": "\u00a357.35",
+        "availability_in_stock": 320,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",
+        "price": "\u00a328.09",
+        "availability_in_stock": 385,
+        "rating": "Two"
+    },
+    {
+        "book_title": "The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",
+        "price": "\u00a312.34",
+        "availability_in_stock": 760,
+        "rating": "Four"
+    },
+    {
+        "book_title": "The White Queen (The Cousins' War #1)",
+        "price": "\u00a325.91",
+        "availability_in_stock": 875,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Stand",
+        "price": "\u00a357.86",
+        "availability_in_stock": 58,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Les Fleurs du Mal",
+        "price": "\u00a329.04",
+        "availability_in_stock": 814,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Catherine the Great: Portrait of a Woman",
+        "price": "\u00a358.55",
+        "availability_in_stock": 899,
+        "rating": "Four"
+    },
+    {
+        "book_title": "This Is Where It Ends",
+        "price": "\u00a327.12",
+        "availability_in_stock": 172,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",
+        "price": "\u00a325.83",
+        "availability_in_stock": 308,
+        "rating": "Two"
+    },
+    {
+        "book_title": "A Court of Thorns and Roses (A Court of Thorns and Roses #1)",
+        "price": "\u00a352.37",
+        "availability_in_stock": 920,
+        "rating": "One"
+    },
+    {
+        "book_title": "32 Yolks",
+        "price": "\u00a353.63",
+        "availability_in_stock": 860,
+        "rating": "Two"
+    },
+    {
+        "book_title": "The Song of Achilles",
+        "price": "\u00a337.40",
+        "availability_in_stock": 266,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Girl with All the Gifts",
+        "price": "\u00a349.47",
+        "availability_in_stock": 985,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Howl and Other Poems",
+        "price": "\u00a340.45",
+        "availability_in_stock": 339,
+        "rating": "Two"
+    },
+    {
+        "book_title": "The Mathews Men: Seven Brothers and the War Against Hitler's U-boats",
+        "price": "\u00a342.91",
+        "availability_in_stock": 462,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Darkest Lie",
+        "price": "\u00a335.35",
+        "availability_in_stock": 327,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Seven Brief Lessons on Physics",
+        "price": "\u00a330.60",
+        "availability_in_stock": 783,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Throne of Glass (Throne of Glass #1)",
+        "price": "\u00a335.07",
+        "availability_in_stock": 976,
+        "rating": "Three"
+    },
+    {
+        "book_title": "Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",
+        "price": "\u00a311.38",
+        "availability_in_stock": 809,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Immortal Life of Henrietta Lacks",
+        "price": "\u00a340.67",
+        "availability_in_stock": 550,
+        "rating": "Two"
+    },
+    {
+        "book_title": "House of Leaves",
+        "price": "\u00a354.89",
+        "availability_in_stock": 211,
+        "rating": "One"
+    },
+    {
+        "book_title": "Leave This Song Behind: Teen Poetry at Its Best",
+        "price": "\u00a351.17",
+        "availability_in_stock": 18,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Hiding Place",
+        "price": "\u00a355.91",
+        "availability_in_stock": 211,
+        "rating": "Four"
+    },
+    {
+        "book_title": "My Kind of Crazy",
+        "price": "\u00a340.36",
+        "availability_in_stock": 882,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Selfish Gene",
+        "price": "\u00a329.45",
+        "availability_in_stock": 628,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Glittering Court (The Glittering Court #1)",
+        "price": "\u00a344.28",
+        "availability_in_stock": 990,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Dovekeepers",
+        "price": "\u00a348.78",
+        "availability_in_stock": 89,
+        "rating": "One"
+    },
+    {
+        "book_title": "The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1)",
+        "price": "\u00a315.42",
+        "availability_in_stock": 899,
+        "rating": "Five"
+    },
+    {
+        "book_title": "America's War for the Greater Middle East: A Military History",
+        "price": "\u00a351.22",
+        "availability_in_stock": 172,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Don't Get Caught",
+        "price": "\u00a355.35",
+        "availability_in_stock": 173,
+        "rating": "One"
+    },
+    {
+        "book_title": "Hollow City (Miss Peregrine\u2019s Peculiar Children #2)",
+        "price": "\u00a342.98",
+        "availability_in_stock": 18,
+        "rating": "One"
+    },
+    {
+        "book_title": "More Than Music (Chasing the Dream #1)",
+        "price": "\u00a337.61",
+        "availability_in_stock": 156,
+        "rating": "Two"
+    },
+    {
+        "book_title": "The Crossover",
+        "price": "\u00a338.77",
+        "availability_in_stock": 143,
+        "rating": "Four"
+    },
+    {
+        "book_title": "The Guns of August",
+        "price": "\u00a314.54",
+        "availability_in_stock": 443,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Catching Jordan (Hundred Oaks)",
+        "price": "\u00a350.83",
+        "availability_in_stock": 773,
+        "rating": "Three"
+    },
+    {
+        "book_title": "The Star-Touched Queen",
+        "price": "\u00a346.02",
+        "availability_in_stock": 526,
+        "rating": "Five"
+    },
+    {
+        "book_title": "Code Name Verity (Code Name Verity #1)",
+        "price": "\u00a322.13",
+        "availability_in_stock": 787,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Booked",
+        "price": "\u00a317.49",
+        "availability_in_stock": 212,
+        "rating": "Five"
+    },
+    {
+        "book_title": "House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",
+        "price": "\u00a343.70",
+        "availability_in_stock": 96,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1)",
+        "price": "\u00a358.14",
+        "availability_in_stock": 348,
+        "rating": "Four"
+    },
+    {
+        "book_title": "The Hidden Oracle (The Trials of Apollo #1)",
+        "price": "\u00a352.26",
+        "availability_in_stock": 373,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Cell",
+        "price": "\u00a320.29",
+        "availability_in_stock": 33,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Twenty Love Poems and a Song of Despair",
+        "price": "\u00a330.95",
+        "availability_in_stock": 541,
+        "rating": "Four"
+    },
+    {
+        "book_title": "The Epidemic (The Program 0.6)",
+        "price": "\u00a314.44",
+        "availability_in_stock": 701,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Bane Chronicles (The Bane Chronicles #1-11)",
+        "price": "\u00a344.73",
+        "availability_in_stock": 285,
+        "rating": "Four"
+    },
+    {
+        "book_title": "Angels Walking (Angels Walking #1)",
+        "price": "\u00a334.20",
+        "availability_in_stock": 893,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Stars Above (The Lunar Chronicles #4.5)",
+        "price": "\u00a348.05",
+        "availability_in_stock": 690,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Island of Dragons (Unwanteds #7)",
+        "price": "\u00a329.65",
+        "availability_in_stock": 108,
+        "rating": "One"
+    },
+    {
+        "book_title": "A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",
+        "price": "\u00a356.48",
+        "availability_in_stock": 52,
+        "rating": "Two"
+    },
+    {
+        "book_title": "Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3)",
+        "price": "\u00a337.51",
+        "availability_in_stock": 25,
+        "rating": "Five"
+    },
+    {
+        "book_title": "A People's History of the United States",
+        "price": "\u00a340.79",
+        "availability_in_stock": 343,
+        "rating": "Two"
+    },
+    {
+        "book_title": "City of Glass (The Mortal Instruments #3)",
+        "price": "\u00a356.02",
+        "availability_in_stock": 239,
+        "rating": "Four"
+    },
+    {
+        "book_title": "A Brush of Wings (Angels Walking #3)",
+        "price": "\u00a355.51",
+        "availability_in_stock": 247,
+        "rating": "One"
+    },
+    {
+        "book_title": "Searching for Meaning in Gailana",
+        "price": "\u00a338.73",
+        "availability_in_stock": 829,
+        "rating": "One"
+    },
+    {
+        "book_title": "Rook",
+        "price": "\u00a337.86",
+        "availability_in_stock": 37,
+        "rating": "Four"
+    },
+    {
+        "book_title": "The Star-Touched Queen",
+        "price": "\u00a332.30",
+        "availability_in_stock": 583,
+        "rating": "Five"
+    },
+    {
+        "book_title": "The Midnight Watch: A Novel of the Titanic and the Californian",
+        "price": "\u00a326.20",
+        "availability_in_stock": 196,
+        "rating": "One"
+    },
+    {
+        "book_title": "A Shard of Ice (The Black Symphony Saga #1)",
+        "price": "\u00a356.63",
+        "availability_in_stock": 139,
+        "rating": "Three"
+    },
+    {
+        "book_title": "King's Folly (The Kinsman Chronicles #1)",
+        "price": "\u00a339.61",
+        "availability_in_stock": 891,
+        "rating": "Five"
+    }
+]
